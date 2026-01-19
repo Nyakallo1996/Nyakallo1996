@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Nyakallo Mahlakmetsa
+# Hi there 👋 I'm Nyakallo Mahlakametsa
 
 ## 🚀 Java Full-Stack Developer
 
