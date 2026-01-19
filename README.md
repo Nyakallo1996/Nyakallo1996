@@ -58,7 +58,7 @@ I'm a passionate **Java Full-Stack Developer** based in **Gauteng, South Africa*
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: *(add your LinkedIn URL)*
+* 💼 LinkedIn: https://www.linkedin.com/in/nyakallo-mahlakametsa-7b1763326/
 * 📧 Email: Lekgoabamahlaks@gmail.com
 
 ---
