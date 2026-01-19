@@ -54,18 +54,12 @@ I'm a passionate **Java Full-Stack Developer** based in **Gauteng, South Africa*
 
 ---
 
-## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact)
-
----
 
 ## 📫 Connect With Me
 
 * 💼 LinkedIn: *(add your LinkedIn URL)*
-* 📧 Email: *(optional)*
+* 📧 Email: Lekgoabamahlaks@gmail.com
 
 ---
 
